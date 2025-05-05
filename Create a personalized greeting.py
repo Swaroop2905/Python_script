@@ -5,4 +5,4 @@ b=eval(input("Enter the last name:  " ) )
 
 
 
-print('hello',a,b,'!  welcome to the python program')
+print(f"\nhello,{a+b}! welcome to the python program")
